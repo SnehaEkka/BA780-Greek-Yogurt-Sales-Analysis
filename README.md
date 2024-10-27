@@ -1,4 +1,5 @@
-# Data Analytics: Mevgal Greek Yogurt Sales Performance Analysis
+# Mevgal Greek Yogurt Sales Performance Analysis
+Coursework: Data Analytics
 
 ## About Mevgal
 MEVGAL is a Greek dairy product manufacturer. It manufactures and sells a wide variety of pasteurized dairy products, including milk, yogurt (both traditional Greek and European), cheeses, desserts, and rice puddings. MEVGAL now produces one in every five yogurts exported by Greece. The company owns a significant share in the Greek Yogurt category in markets ranging from Europe to America and Asia.
