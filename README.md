@@ -73,7 +73,7 @@ Leveraging Python, Pandas, and Matplotlib/Seaborn, this project automates the di
 
 ## Coursework & Contributors
 - Built as part of the BA780 - Intro to Data Analytics, with a focus on real-world business analytics and transforming raw data into actionable strategies.
-- Team Members: 
+- Team Members: Dian Jin, Kunjingyi Chen, Min Xu, Mitchell Wu, Sneha Ekka, Tanvi Sheth
 
 ## Presentation Deck
 
